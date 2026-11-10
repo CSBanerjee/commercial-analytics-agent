@@ -1,0 +1,11 @@
+# Secrets and local configuration
+.env
+.sf/
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store

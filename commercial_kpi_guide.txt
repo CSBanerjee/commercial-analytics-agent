@@ -1,0 +1,87 @@
+# Commercial Sales KPI Guide
+
+## 1. Actual Sales
+Definition: Total revenue generated from completed sales.
+
+Calculation:
+Sum of actual_sales_usd.
+
+## 2. Sales Target
+Definition: Planned sales revenue for a given period.
+
+Calculation:
+Sum of sales_target_usd.
+
+## 3. Sales Target Attainment
+Definition: Percentage of the sales target achieved.
+
+Calculation:
+(Actual Sales / Sales Target) * 100
+
+Interpretation:
+- Above 100%: Target exceeded.
+- Equal to 100%: Target achieved.
+- Below 100%: Target not achieved.
+
+## 4. Sales Gap
+Definition: Difference between sales target and actual sales.
+
+Calculation:
+Sales Target - Actual Sales
+
+Interpretation:
+- Positive: Sales below target.
+- Zero: Target achieved.
+- Negative: Sales exceeded target.
+
+## 5. Pipeline Value
+Definition: Total value of potential sales opportunities.
+
+Calculation:
+Sum of pipeline_value_usd.
+
+Important:
+Pipeline value represents potential future revenue, not confirmed actual sales.
+
+## 6. Units Sold
+Definition: Total number of units sold.
+
+Calculation:
+Sum of units_sold.
+
+## 7. Regional Sales Performance
+Definition: Sales performance evaluated across geographical regions.
+
+Available regions:
+North, South, East, West, Central.
+
+Compare regions using:
+- Actual sales
+- Sales target
+- Attainment percentage
+- Sales gap
+- Pipeline value
+
+## 8. Product Sales Performance
+Definition: Sales performance evaluated across products.
+
+Available products:
+- Diagnostic Systems
+- Surgical Solutions
+- Patient Monitoring
+
+Compare products using:
+- Actual sales
+- Sales target
+- Attainment percentage
+- Units sold
+- Pipeline value
+
+## 9. Time Dimension
+Dataset period: January 2025 to December 2025.
+
+Date column: month
+
+Format: YYYY-MM
+
+Monthly and annual sales analysis can be performed using this field.

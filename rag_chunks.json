@@ -1,0 +1,14 @@
+[
+  {
+    "chunk_id": 1,
+    "content": "# Commercial Sales KPI Guide\n\n## 1. Actual Sales\nDefinition: Total revenue generated from completed sales.\n\nCalculation:\nSum of actual_sales_usd.\n\n## 2. Sales Target\nDefinition: Planned sales revenue for a given period.\n\nCalculation:\nSum of sales_target_usd.\n\n## 3. Sales Target Attainment\nDefinition: Percentage of the sales target achieved.\n\nCalculation:\n(Actual Sales / Sales Target) * 100\n\nInterpretation:\n- Above 100%: Target exceeded.\n- Equal to 100%: Target achieved.\n- Below 100%: Target not achieved.\n\n## 4. Sales Gap\nDefinition: Difference between sales target and actual sales.\n\nCalculation:\nSales Target - Actual Sales\n\nInterpretation:\n- Positive: Sales below target.\n- Zero: Target achieved.\n- Negative: Sales exceeded target.\n\n## 5. Pipeline Value\nDefinition: Total value of potential s"
+  },
+  {
+    "chunk_id": 2,
+    "content": "ved.\n- Negative: Sales exceeded target.\n\n## 5. Pipeline Value\nDefinition: Total value of potential sales opportunities.\n\nCalculation:\nSum of pipeline_value_usd.\n\nImportant:\nPipeline value represents potential future revenue, not confirmed actual sales.\n\n## 6. Units Sold\nDefinition: Total number of units sold.\n\nCalculation:\nSum of units_sold.\n\n## 7. Regional Sales Performance\nDefinition: Sales performance evaluated across geographical regions.\n\nAvailable regions:\nNorth, South, East, West, Central.\n\nCompare regions using:\n- Actual sales\n- Sales target\n- Attainment percentage\n- Sales gap\n- Pipeline value\n\n## 8. Product Sales Performance\nDefinition: Sales performance evaluated across products.\n\nAvailable products:\n- Diagnostic Systems\n- Surgical Solutions\n- Patient Monitoring\n\nCompare products"
+  },
+  {
+    "chunk_id": 3,
+    "content": "Available products:\n- Diagnostic Systems\n- Surgical Solutions\n- Patient Monitoring\n\nCompare products using:\n- Actual sales\n- Sales target\n- Attainment percentage\n- Units sold\n- Pipeline value\n\n## 9. Time Dimension\nDataset period: January 2025 to December 2025.\n\nDate column: month\n\nFormat: YYYY-MM\n\nMonthly and annual sales analysis can be performed using this field."
+  }
+]
