@@ -1,4 +1,5 @@
-![Uploading Commercial Analytics Agent Blueprint.png…]()
+<img width="1536" height="1024" alt="Commercial Analytics Agent Blueprint" src="https://github.com/user-attachments/assets/0108c488-fabf-45a3-84a3-f8764dc55566" />
+
 
 # Commercial Analytics Agent
 
