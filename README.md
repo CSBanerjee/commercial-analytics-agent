@@ -1,3 +1,6 @@
+
+![Uploading Commercial Analytics Agent Blueprint.png…]()
+
 # Commercial Analytics Agent
 
 An educational, portfolio-oriented Agentic AI project that answers commercial sales questions using an LLM, RAG-based KPI retrieval, generated Python analytics code, and controlled execution in Docker.
